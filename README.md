@@ -29,7 +29,7 @@ churn-prediction/
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/churn-prediction.git
+git clone https://github.com/akashsingh41882/churn-prediction.git
 cd churn-prediction
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
